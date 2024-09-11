@@ -1,0 +1,4 @@
+<resources>
+    <string name="service_name">My HCE Service</string>
+    <string name="aid_group_description">AID Group for HCE</string>
+</resources>
